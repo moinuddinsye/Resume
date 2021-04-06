@@ -21,6 +21,7 @@
 - Intel Public School
 - perecherla
 - guntur district,A.P
+
 **Skills**
 - c
 - java
