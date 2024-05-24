@@ -23,9 +23,15 @@
 - guntur district,A.P
 
 **Skills**
-- c
-- java
 - python
-- dbms
+- java
+- html
+- css
+- javaScript
+- react js
+- mysql
+- git
+- gitHub
+- 
 
  
